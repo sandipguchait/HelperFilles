@@ -6,3 +6,4 @@ Files conatain Some Helper Images.
 5. CSS GRID CheatSheet
 6. CSS flexbox+Grid layout template
 7. CSS Ilustrations free
+8. Advanced function (closure/currying/composed)
